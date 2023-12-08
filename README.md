@@ -1,5 +1,9 @@
 # Chorume Dashboard 🚀
 
+
+Acesse código: [ChorumeBot Discord](https://github.com/brunofunnie/chorumebot)🤖
+
+
 Salve! Seja bem-vindo à Chorume Dashboard - A Exibição Oficial da Comunidade! 🎉
 
 ![Chorume Logo](/public/image/chorumebot.png)
